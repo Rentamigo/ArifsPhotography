@@ -262,7 +262,7 @@ const GalleryPage: React.FC = () => {
     },
     {
       id: 4,
-      src: '/images/26.JPG',
+      src: '/images/26.jpg',
       alt: 'Commercial product photography with professional setup',
       category: 'Commercial',
       title: 'Product Excellence',
@@ -337,7 +337,7 @@ const GalleryPage: React.FC = () => {
     },
     {
       id: 9,
-      src: '/images/22.JPG',
+      src: '/images/22.jpg',
       alt: 'Intimate portrait session with emotional depth',
       category: 'Portrait',
       title: 'Emotional Depth',
@@ -367,7 +367,7 @@ const GalleryPage: React.FC = () => {
     },
     {
       id: 11,
-      src: '/images/26.JPG',
+      src: '/images/26.jpg',
       alt: 'Professional business portrait with modern styling',
       category: 'Commercial',
       title: 'Business Professional',

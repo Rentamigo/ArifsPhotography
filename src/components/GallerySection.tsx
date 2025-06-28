@@ -157,7 +157,7 @@ const GallerySection: React.FC = () => {
     },
     {
       id: 4,
-      src: '/images/10.JPG',
+      src: '/images/10.jpg',
       alt: 'Commercial product photography with professional setup',
       category: 'Commercial',
       title: 'Product Excellence'

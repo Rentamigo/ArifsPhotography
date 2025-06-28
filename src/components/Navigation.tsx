@@ -64,7 +64,7 @@ const Navigation: React.FC = () => {
 
             <div>
 <img
-  src="/images/logo.PNG"
+  src="/images/logo.png"
   alt="ARIF PHOTOGRAPHY"
   className="h-10 sm:h-14 lg:h-20 xl:h-24 w-auto max-w-[200px] sm:max-w-[250px] lg:max-w-[300px] xl:max-w-[350px]"
 />

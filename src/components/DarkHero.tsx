@@ -151,7 +151,7 @@ const DarkHero: React.FC = () => {
     '/images/7.jpg',
     '/images/8.jpg',
     '/images/9.jpg',
-    '/images/10.JPG',
+    '/images/10.jpg',
     '/images/11.jpg',
     '/images/12.jpg',
   ];
@@ -166,7 +166,7 @@ const DarkHero: React.FC = () => {
             <div className="max-w-2xl text-center lg:text-left relative">
   {/* Subtle logo above the title */}
 <img
-  src="/images/logo.PNG"
+  src="/images/logo.png"
   alt="ARIF PHOTOGRAPHY Logo"
   className="absolute -top-48 left-6 opacity-20 w-60 sm:w-72 lg:w-[22rem] xl:w-[26rem] pointer-events-none select-none"
 />
